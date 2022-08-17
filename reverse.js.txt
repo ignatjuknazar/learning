@@ -1,0 +1,7 @@
+var reverseString = function(s) {
+    var i =  ["h","e","l","l","o"];
+    console.log(i.reverse);
+    return(s)
+};
+
+   
